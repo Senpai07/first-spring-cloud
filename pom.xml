@@ -11,6 +11,8 @@
     <modules>
         <module>eureka-service</module>
         <module>eureka-client</module>
+        <module>dto-common</module>
+        <module>product-server</module>
     </modules>
     <name>first-spring-cloud</name>
     <description>Demo project for Spring Boot</description>
